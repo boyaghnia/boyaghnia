@@ -1,4 +1,6 @@
-## Hi there 👋
+## Halo, nama saya Boy Aghnia Rifadhan. Saya adalah seorang Pegawai Negeri Sipil (PNS) aktif di Kementerian Perhubungan dan saat ini menjabat sebagai Front-End Developer, UI/UX Designer dan Graphic Designer di Bagian Organisasi dan Tata Laksana Sekretariat Direktorat Jenderal Perhubungan Udara, Jakarta Pusat. Saya juga seorang profesional yang berpengalaman dalam Web Development dan memiliki ketertarikan dalam bidang Network Management serta Graphic Design. Beberapa proyek yang telah saya kerjakan mencakup tiga bidang utama ini, memadukan kemampuan teknis dan kreativitas untuk menghasilkan solusi inovatif dan efisien. Saya percaya bahwa penguasaan multidisiplin sangat penting dalam mendukung tugas dan tanggung jawab saya, dan saya selalu berusaha untuk terus mengembangkan keterampilan saya guna memberikan kontribusi yang maksimal dalam setiap tugas yang saya laksanakan. 
+
+Selengkapnya di : https://boyaghnia.github.io
 
 
 <!-- **boyaghnia/boyaghnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
